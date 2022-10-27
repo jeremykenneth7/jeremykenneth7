@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jeremy
-- 🌱 I’m currently learning C++,HTML,CSS,PHP,JS,React JS,Vue JS,Laravel
-- 💞️ I’m looking to collaborate on Front End Development
+- 🌱 I’m currently learning C++,HTML,CSS,PHP,JS,React JS,Vue JS,Laravel,Figma
+- 💞️ I’m looking to collaborate on Front End Development 
 - 📫 How to reach me -> instagram : @jeremykenneth7
 
 <!---
