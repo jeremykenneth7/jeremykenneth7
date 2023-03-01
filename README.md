@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jeremy Kenneth</h1>
 
-- 🔭 I’m currently working on **Tsunami API GeoJson React Web**
-
 - 🌱 I’m currently learning **React JS,Vue JS,Laravel,Figma**
 
 - 👯 I’m looking to collaborate on **Front End Development**
