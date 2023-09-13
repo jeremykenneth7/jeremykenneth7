@@ -17,6 +17,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeremykenneth7&show_icons=true&theme=dark&locale=en&layout=compact" alt="jeremykenneth7" /></p>
 
+[![Jeremy wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jeremykenneth7)](https://github.com/anuraghazra/github-readme-stats)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jeremykenneth7&theme=dark" alt="jeremykenneth7" /></p>
 
