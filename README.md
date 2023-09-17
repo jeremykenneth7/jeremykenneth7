@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jeremy Kenneth</h1>
 
-- 🌱 I’m currently learning **React,Golang,Figma**
+- 🌱 I’m currently learning **Next.JS**
 
 - 👯 I’m looking to collaborate on **Front End Development**
 
