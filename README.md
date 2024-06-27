@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning **Next.JS**
 
-- 👯 I’m looking to collaborate on **Front End Development**
+- 👯 I’m currently working as a **Mobile and Backend Developer**
 
 - 📫 How to reach me **jeremykenneth7@gmail.com**
 
