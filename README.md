@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jeremy Kenneth</h1>
 
-- 🌱 I’m currently learning **Next.JS**
+- 🌱 I’m currently learning **Next.JS & Swift**
 
 - 👯 I’m currently working as a **Mobile and Backend Developer**
 
